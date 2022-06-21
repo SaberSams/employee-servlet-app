@@ -1,0 +1,4 @@
+.vscode
+hibernate.cfg.xml
+target/
+bin/
